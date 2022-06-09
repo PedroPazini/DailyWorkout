@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.daily_workout">
+    <application android:label="Daily Workout">
+    </application>
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
